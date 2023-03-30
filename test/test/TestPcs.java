@@ -3,7 +3,6 @@ package test;
 import Dispositivos.*;
 
 public class TestPcs {
-
     public static void main(String[] args) {
         
         Monitor Hp = new Monitor("Hp", 20);
